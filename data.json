@@ -1,0 +1,22 @@
+{
+    "carousel": [
+        {
+            "id": 1,
+            "image": "https://temptingchoiceapp.space/images/car1.png"
+        },
+        {
+            "id": 2,
+            "image": "https://temptingchoiceapp.space/images/car2.png"
+        },
+        {
+            "id": 3,
+            "image": "https://temptingchoiceapp.space/images/car3.png"
+        }
+    ],
+    "best_sellers": [
+        {
+            "id": 1,
+            "title": "Harry Potter and the Goblet of Fire"
+        }
+    ]
+}
