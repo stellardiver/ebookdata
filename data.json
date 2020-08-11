@@ -1,0 +1,73 @@
+{
+    "carousel": [
+        {
+            "id": 1,
+            "image": "https://temptingchoiceapp.space/images/car1.png"
+        },
+        {
+            "id": 2,
+            "image": "https://temptingchoiceapp.space/images/car2.png"
+        },
+        {
+            "id": 3,
+            "image": "https://temptingchoiceapp.space/images/car3.png"
+        }
+    ],
+    "best": [
+        {
+            "id": 1,
+            "title": "Harry Potter and the Goblet of Fire",
+            "author": "J.K. Rowling",
+            "price": 18.99,
+            "image": "https://temptingchoiceapp.space/images/best1.png",
+            "rate": {
+                "score": 4.9,
+                "amount": 3120
+            }
+        },
+        {
+            "id": 2,
+            "title": "The Jungle Book",
+            "author": "Rudyard Kipling",
+            "price": 17.99,
+            "image": "https://temptingchoiceapp.space/images/best2.png",
+            "rate": {
+                "score": 4.6,
+                "amount": 3630
+            }
+        },
+        {
+            "id": 3,
+            "title": "Star Wars Return of the Jedi",
+            "author": "James Kahn",
+            "price": 20.99,
+            "image": "https://temptingchoiceapp.space/images/best3.png",
+            "rate": {
+                "score": 4.9,
+                "amount": 3350
+            }
+        }
+    ],
+    "similar": [
+        {
+            "id": 1,
+            "image": "https://temptingchoiceapp.space/images/also1.png"
+        },
+        {
+            "id": 2,
+            "image": "https://temptingchoiceapp.space/images/also2.png"
+        },
+        {
+            "id": 3,
+            "image": "https://temptingchoiceapp.space/images/also3.png"
+        },
+        {
+            "id": 4,
+            "image": "https://temptingchoiceapp.space/images/also2.png"
+        },
+        {
+            "id": 5,
+            "image": "https://temptingchoiceapp.space/images/also3.png"
+        }
+    ]
+}
